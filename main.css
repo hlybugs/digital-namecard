@@ -159,14 +159,14 @@ img.logo-pic {
 .text-name {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #333333;
+    color: white;
     font-size: 20px;
 }
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
     font-weight: 200;
-    color: #333333;
+    color: white;
     font-size: 14px;
 }
 
@@ -182,7 +182,7 @@ img.logo-pic {
 }
 
 .button {
-	background-color: #72FDEA;
+	background-color: #2B324C;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
@@ -190,7 +190,7 @@ img.logo-pic {
 	vertical-align: middle;
 	line-height: 48px;
 	font-family: 'Muli', sans-serif;
-	color: #333333;
+	color: white;
 	font-weight: 300;
 }
 
