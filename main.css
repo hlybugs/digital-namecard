@@ -39,6 +39,13 @@ img.profile-pic {
 	border-radius: 50%;
 }
 
+img.logo-pic {
+	height: 30%;
+	width: 30%;
+	object-fit: cover;
+	border-radius: 50%;
+}
+
 .container {
 	margin: 0 auto;
 	position: relative;
