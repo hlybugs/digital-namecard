@@ -5,7 +5,7 @@ N:Ziaudeen;Ariffin;;Dr;
 FN: Ariffin Ziaudeen 
 ORG:Ido Aesthetics Clinic;
 TITLE:Chief Executive Office & Chief Medical Officer
-PHOTO;MEDIATYPE=image/jpeg:https://hlybugs.github.io/digital-namecard/fin.jpg
+PHOTO;TYPE=JPEG;VALUE=URI:https://hlybugs.github.io/digital-namecard/fin.jpg
 EMAIL;type=INTERNET;type=WORK;type=pref:idoaestheticsclinic@gmail.com
 TEL;type=WORK;type=VOICE:+65 9641 2796
 item1.ADR;type=WORK;type=pref:;;8 Eu Tong Sen Street\nThe Central\, 11-89;;;059818;Singapore
