@@ -10,6 +10,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:idoaestheticsclinic@gmail.com
 TEL;type=WORK;type=VOICE:+65 9641 2796
 item1.ADR;type=WORK;type=pref:;;8 Eu Tong Sen Street\nThe Central\, 11-89;;;059818;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:idoaesthetics.com.sg
+item2.URL;type=pref:idoaesthetics.business.site
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
